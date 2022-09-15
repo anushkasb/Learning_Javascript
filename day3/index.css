@@ -1,0 +1,30 @@
+#bg{
+    background-image:url(./IMG_20220624_181143.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+width: 100vw;
+}
+.letters{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.box{
+    position: relative;
+    top: 200px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    border : 3px solid black;
+    border-radius: 5px;
+  
+    
+}
+.desc{
+    font-size: 10px;
+    color: yellow;
+    position: relative;
+    right: 70px;
+    top: 270px;
+}
