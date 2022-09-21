@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+}
+#main-section{
+    text-align: center;
+}
+#add-item{
+    background-color: white;
+    border-radius: 20px;
+}
+.list-item{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    width: 450px;
+    position: relative;
+    left: 330px;
+
+}
